@@ -1,0 +1,16 @@
+.main{
+    height: 100vh;    
+}
+.top-left,.top-right{
+    display: flex;
+    justify-content: center; 
+}
+.bottom-row{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.card-body{
+    height: auto;
+    min-width: 240px;
+}
